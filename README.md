@@ -1,11 +1,11 @@
-### Billing-System-Python
+## Billing-System-Python
 
 This README.md file provides an overview of your Billing Management System, instructions to set up the project using XAMPP, and how to run it.
 
-🛒 Billing Management System
+## 🛒 Billing Management System
 A Python-based billing system using Tkinter for the UI and MySQL (phpMyAdmin) for database management. This system allows an Admin and Manager to manage billing counters, retrieve sales data, and track daily transactions.
 
-📂 Project Structure
+## 📂 Project Structure
 /Billing-Management-System
 │── demo.py                  # Main file to start the application
 │── main_admin_UI.py         # Admin panel interface
@@ -50,7 +50,7 @@ Choose Counter 1 (counter1.py) or Counter 2 (counter2.py).
 Manager Panel:  Click "Manager" → Opens main_manager_UI.py.
 After login, use billing_details.py to fetch sales data.
 
-🛠 Features
+## 🛠 Features
 ✔ Admin Panel to manage counters.
 ✔ Manager Panel to view sales data.
 ✔ Billing Counters (Counter 1 & Counter 2).
