@@ -1,4 +1,4 @@
-# Billing-System-Python
+### Billing-System-Python
 
 This README.md file provides an overview of your Billing Management System, instructions to set up the project using XAMPP, and how to run it.
 
@@ -20,7 +20,7 @@ A Python-based billing system using Tkinter for the UI and MySQL (phpMyAdmin) fo
 │── README.md                # Project documentation (this file)
 
 
-⚙️ How to Set Up and Run the Project Using XAMPP
+## ⚙️ How to Set Up and Run the Project Using XAMPP
 🔹 Step 1: Install Requirements
 Download and install XAMPP.
 Install Python 3 if not installed.
