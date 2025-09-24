@@ -33,7 +33,7 @@ It is designed to manage product details, customer records, employee details, an
 ### 5. Billing_System_Main_UI
 ![Billing_System_Main_UI](https://github.com/moneshpondhekar/Billing-System-Python/blob/main/Billing_system_main_ui.PNG)
 
-### 8. Sales_Details
+### 6. Sales_Details
 ![Sales_Details](https://github.com/moneshpondhekar/Billing-System-Python/blob/main/sales_detail.PNG)
 
 
