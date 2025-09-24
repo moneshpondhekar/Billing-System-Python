@@ -28,7 +28,7 @@ It is designed to manage product details, customer records, employee details, an
 ![Manager Login](https://github.com/moneshpondhekar/Billing-System-Python/blob/main/manager_login.PNG)
 
 ### 4. Counter Selection
-![Counter Selection]([screenshots/02-main-dashboard.png](https://github.com/moneshpondhekar/Billing-System-Python/blob/main/counter_selection.PNG))
+![Counter Selection](https://github.com/moneshpondhekar/Billing-System-Python/blob/main/counter_selection.PNG)
 
 ### 5. Billing_System_Main_UI
 ![Billing_System_Main_UI](https://github.com/moneshpondhekar/Billing-System-Python/blob/main/Billing_system_main_ui.PNG)
