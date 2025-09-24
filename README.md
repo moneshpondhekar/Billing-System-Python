@@ -16,4 +16,4 @@ It is designed to manage product details, customer records, employee details, an
 - MySQL (Database)
 - XAMPP / MySQL Workbench
 - VS Code
-![Uploading Billing_system_main_ui.PNG…]()
+![Uploading Billing_system_main_ui.PNG…](https://github.com/moneshpondhekar/Billing-System-Python/blob/main/Billing_system_main_ui.PNG)
